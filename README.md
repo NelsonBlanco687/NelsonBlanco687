@@ -37,8 +37,8 @@ servidor y base de datos.**
 * 2.7 Sistemas de Rutas y controladores
 * 2.8 Validación de datos (rutas, vistas, formularios y 
 controladores)
-*2.9 Blade: sistema de plantillas avanzado
-*2.10 Trabajando con Laravel/UI
+* 2.9 Blade: sistema de plantillas avanzado
+* 2.10 Trabajando con Laravel/UI
 
 **UNIDAD III Incorporando tecnologías de Servidor Web**
 * 3.1 Introducción a Node.js
@@ -49,4 +49,6 @@ controladores)
 * 3.6 Servicios de datos en Node.js con MongoDB
 * 3.7 Aplicaciones Real-Time en Node.js con Socket.io
 
+## Jornalizacion
+<a><img src="https://drive.google.com/file/d/1ZTBUo_y7AmfOsftZtIhysPkc3KLrk8o5/view?usp=sharing" style="height: 50%; width:50%;"/></a>
 
