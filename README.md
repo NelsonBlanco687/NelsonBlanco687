@@ -18,11 +18,11 @@ asignatura,  los  estudiantes  adquieran  las  competencias  para
 desarrollar programas orientados a entornos Web.
 
 ###Contenidos 
-[![Contenidos](https://img.shields.io/badge/Unidades-Contenidos-blue)]
+
 **UNIDAD I Desarrollo Frontend con librerías del lado del cliente**
-1.1 Introducción a la librería Vue.js y Bootstrap.
-1.2 Rendering Declarativo y Manipulación de DOM.
-1.3 Sistema de Componentes.
+* 1.1 Introducción a la librería Vue.js y Bootstrap.
+* 1.2 Rendering Declarativo y Manipulación de DOM.
+* 1.3 Sistema de Componentes.
 
 **UNIDAD II Desarrollo Backend con el Framework del lado del 
 servidor y base de datos.**
