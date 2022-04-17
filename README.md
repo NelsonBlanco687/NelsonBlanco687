@@ -55,4 +55,12 @@ controladores)
 ## Calendarizacion :ok_hand:
 [![Calendarizaci-n-I-2022-4-1-page-0001.jpg](https://i.postimg.cc/j5DKDTd8/Calendarizaci-n-I-2022-4-1-page-0001.jpg)](https://postimg.cc/tZG8cL6P)
 
+## Presentacion :bowtie:
+**Objetivos academicos**
+* -Aprender a utilizar Vue.js y Bootstrap correctamente para la facil implementación en proyectos. :heart:
+* -Saber mas atajos para la facil redacción de codigos. :heart:
+* -Investigar temas en los cuales se me dificulte o hacer preguntas pertinentes. :heart:
+* -Mejorar resutados en areas dificiles. :heart:
+* -Aprender un nuevo lenguaje de programación llamado PHP :heart:
+
 
