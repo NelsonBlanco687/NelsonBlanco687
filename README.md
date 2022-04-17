@@ -19,7 +19,7 @@ desarrollar programas orientados a entornos Web.
 
 ## :point_right: Contenidos 
 
-[![Contenidos](https://img.shields.io/badge/Unidades-Contenidos-blue)]
+![Contenidos](https://img.shields.io/badge/Unidades-Contenidos-blue)
 
 **UNIDAD I Desarrollo Frontend con librerías del lado del cliente**
 * 1.1 Introducción a la librería Vue.js y Bootstrap.
