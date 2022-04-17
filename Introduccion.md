@@ -1,4 +1,4 @@
-### Hi there 👋
+### Introduccion a la materia 👋
 
 <!--
 **NelsonBlanco687/NelsonBlanco687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
