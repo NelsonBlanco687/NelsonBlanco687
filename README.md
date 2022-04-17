@@ -6,7 +6,7 @@ temas abarcan la programacion haciendo uso de Vue.js,Bootstrap, manipulacion de 
 tambien abarcaremos el lenguaje de programacion PHP el cual haremos varias practicas con CRUD las cuales
 nos propiciaran para seguir aprendiendo mas y mas sobre la pragramacion.
 
-### Descripción de la asignatura :+1:
+## Descripción de la asignatura :+1:
 
 Los estudiantes comprenden y aplican los lenguajes y 
 tecnologías para el desarrollo de aplicaciones para 
@@ -17,7 +17,7 @@ profesionales en entornos distribuidos. Se pretende que, en la
 asignatura,  los  estudiantes  adquieran  las  competencias  para 
 desarrollar programas orientados a entornos Web.
 
-### :point_right: Contenidos 
+## :point_right: Contenidos 
 
 **UNIDAD I Desarrollo Frontend con librerías del lado del cliente**
 * 1.1 Introducción a la librería Vue.js y Bootstrap.
