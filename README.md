@@ -17,7 +17,7 @@ profesionales en entornos distribuidos. Se pretende que, en la
 asignatura,  los  estudiantes  adquieran  las  competencias  para 
 desarrollar programas orientados a entornos Web.
 
-###Contenidos 
+### :point_right: Contenidos 
 
 **UNIDAD I Desarrollo Frontend con librerías del lado del cliente**
 * 1.1 Introducción a la librería Vue.js y Bootstrap.
@@ -26,24 +26,25 @@ desarrollar programas orientados a entornos Web.
 
 **UNIDAD II Desarrollo Backend con el Framework del lado del 
 servidor y base de datos.**
-2.1 Introducción al desarrollo con PHP.
-2.2 Instalación y configuración del servidor Web
-2.3 Introducción a Laravel 
-2.4 Conectando a una BD MySQL con Laravel 
-2.5 CRUD con Laravel 
-2.6 Formularios con Laravel 
-2.7 Sistemas de Rutas y controladores
-2.8 Validación de datos (rutas, vistas, formularios y 
+* 2.1 Introducción al desarrollo con PHP.
+* 2.2 Instalación y configuración del servidor Web
+* 2.3 Introducción a Laravel 
+* 2.4 Conectando a una BD MySQL con Laravel 
+* 2.5 CRUD con Laravel 
+* 2.6 Formularios con Laravel 
+* 2.7 Sistemas de Rutas y controladores
+* 2.8 Validación de datos (rutas, vistas, formularios y 
 controladores)
-2.9 Blade: sistema de plantillas avanzado
-2.10 Trabajando con Laravel/UI
+*2.9 Blade: sistema de plantillas avanzado
+*2.10 Trabajando con Laravel/UI
 
 **UNIDAD III Incorporando tecnologías de Servidor Web**
-3.1 Introducción a Node.js
-3.2 Instalación y configuración de Node.js
-3.3 Asincronismo en Node.js
-3.4 Módulos Nativos
-3.5 Introducción a Express
-3.6 Servicios de datos en Node.js con MongoDB
-3.7 Aplicaciones Real-Time en Node.js con Socket.io
+* 3.1 Introducción a Node.js
+* 3.2 Instalación y configuración de Node.js
+* 3.3 Asincronismo en Node.js
+* 3.4 Módulos Nativos
+* 3.5 Introducción a Express
+* 3.6 Servicios de datos en Node.js con MongoDB
+* 3.7 Aplicaciones Real-Time en Node.js con Socket.io
+
 
