@@ -50,5 +50,6 @@ controladores)
 * 3.7 Aplicaciones Real-Time en Node.js con Socket.io
 
 ## Jornalizacion
-<img src="https://drive.google.com/file/d/1ZTBUo_y7AmfOsftZtIhysPkc3KLrk8o5/view?usp=sharing" style="height: 50%; width:50%;"/>
+[![Jornalizacion.png](https://i.postimg.cc/tJ104Nk8/Captura.png)](https://postimg.cc/LgMQyfrV)
+
 
