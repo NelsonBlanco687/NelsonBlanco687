@@ -1,4 +1,4 @@
-### Introduccion Programacion computacional III 👋
+## Introduccion Programacion computacional III 👋
 
 En la presente materia, trataremos varios temas de interes, los cuales a largo plazo
 sera de mucha utilidad para nosotros los estudiantes como futuros ingenieros, estos
