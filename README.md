@@ -63,4 +63,17 @@ controladores)
 * -Mejorar resutados en areas dificiles. :heart:
 * -Aprender un nuevo lenguaje de programación llamado PHP :heart:
 
+**Competencias**
+* Mejorar la capacidad de trabajo en equipo.
+* Adaptación al cambio.
+* Siempre innovar.
+* Tener sentido de la pertenencia.
+* Mejorar habilidades en el uso de las tecnologías de la información y la comunicación.
+
+**Contenidos dificiles**
+Los contenidos a mi parecer han sido un poco dificiles fueron:
+* *Introducción a la librería Vue.js y Bootstrap
+* *Conectando a una BD MySQL con Laravel 
+* *CRUD con Laravel 
+
 
