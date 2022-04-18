@@ -77,9 +77,9 @@ Los contenidos a mi parecer han sido un poco dificiles fueron:
 * CRUD con Laravel 
 Estos contenidos no entendi muy bien pero con un poco de investigación pude aclarar un poco las dudas.
 
-## Bitacora de aprendizajes
+## Bitacora de aprendizajes :star:
 
-**Investigaciones**
+**Investigaciones** :mag:
 * La investigaciones que hacia por asi decirlo eran pertinentes a 
 Laravel y su integracion a PHP, fue un reto pero haciendo consultas
 se pueden dar las soluciones.
@@ -88,14 +88,14 @@ se pueden dar las soluciones.
 [![Jetstream](https://img.shields.io/badge/2-Laravel%20y%20PHP-red)](https://laravel.com/)
 [![Jetstream](https://img.shields.io/badge/3-Vue.js-orange)](https://vuejs.org/)
 
-**Practicas desarrolladas**
+**Practicas desarrolladas** :school_satchel:
 * [![Jetstream](https://img.shields.io/badge/1-Practicas-lightgrey)](https://github.com/NelsonBlanco687/Practicas_computo_ll.git)
 
-**Laboratorios**
+**Laboratorios** :page_with_curl:
 * [![Jetstream](https://img.shields.io/badge/1-CrudProject-blue)](https://github.com/galle997/CrudProject.git)
 * [![Jetstream](https://img.shields.io/badge/2-LaravelLivewireAlumnos-brightgreen)](https://github.com/galle997/LaravelLivewireAlumnos.git)
 
-## Conclusiones
+## Conclusiones :fire:
 
 
 
