@@ -80,7 +80,7 @@ Estos contenidos no entendi muy bien pero con un poco de investigación pude acl
 ## Bitacora de aprendizajes
 
 **Investigaciones**
-La investigaciones que hacia por asi decirlo eran pertinentes a 
+* La investigaciones que hacia por asi decirlo eran pertinentes a 
 Laravel y su integracion a PHP, fue un reto pero haciendo consultas
 se pueden dar las soluciones.
 
