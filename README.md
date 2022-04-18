@@ -50,7 +50,7 @@ controladores)
 * 3.7 Aplicaciones Real-Time en Node.js con Socket.io
 
 ## Jornalizacion :raised_hands:
-[![Jornalizacion.png](https://i.postimg.cc/tJ104Nk8/Captura.png)](https://postimg.cc/LgMQyfrV)
+[![Jornalizacion1.png](https://i.postimg.cc/J7xrpRG2/Jornalizacion1.png)](https://postimg.cc/3WyQR5jX)
 
 ## Calendarizacion :ok_hand:
 [![Calendarizaci-n-I-2022-4-1-page-0001.jpg](https://i.postimg.cc/j5DKDTd8/Calendarizaci-n-I-2022-4-1-page-0001.jpg)](https://postimg.cc/tZG8cL6P)
