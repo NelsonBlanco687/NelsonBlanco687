@@ -89,11 +89,11 @@ se pueden dar las soluciones.
 [![Jetstream](https://img.shields.io/badge/3-Vue.js-orange)](https://vuejs.org/)
 
 **Practicas desarrolladas**
-[![Jetstream](https://img.shields.io/badge/1-Practicas-lightgrey)](https://github.com/NelsonBlanco687/Practicas_computo_ll.git)
+* [![Jetstream](https://img.shields.io/badge/1-Practicas-lightgrey)](https://github.com/NelsonBlanco687/Practicas_computo_ll.git)
 
 **Laboratorios**
-[![Jetstream](https://img.shields.io/badge/1-CrudProject-blue)](https://github.com/galle997/CrudProject.git)
-[![Jetstream](https://img.shields.io/badge/2-LaravelLivewireAlumnos-brightgreen)](https://github.com/galle997/LaravelLivewireAlumnos.git)
+* [![Jetstream](https://img.shields.io/badge/1-CrudProject-blue)](https://github.com/galle997/CrudProject.git)
+* [![Jetstream](https://img.shields.io/badge/2-LaravelLivewireAlumnos-brightgreen)](https://github.com/galle997/LaravelLivewireAlumnos.git)
 
 ## Conclusiones
 
