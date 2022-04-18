@@ -56,24 +56,35 @@ controladores)
 [![Calendarizaci-n-I-2022-4-1-page-0001.jpg](https://i.postimg.cc/j5DKDTd8/Calendarizaci-n-I-2022-4-1-page-0001.jpg)](https://postimg.cc/tZG8cL6P)
 
 ## Presentacion :bowtie:
-**Objetivos academicos**
+**Objetivos academicos** :innocent:
 * -Aprender a utilizar Vue.js y Bootstrap correctamente para la facil implementación en proyectos. :heart:
 * -Saber mas atajos para la facil redacción de codigos. :heart:
 * -Investigar temas en los cuales se me dificulte o hacer preguntas pertinentes. :heart:
 * -Mejorar resutados en areas dificiles. :heart:
 * -Aprender un nuevo lenguaje de programación llamado PHP :heart:
 
-**Competencias**
+**Competencias** :fire:
 * Mejorar la capacidad de trabajo en equipo.
 * Adaptación al cambio.
 * Siempre innovar.
 * Tener sentido de la pertenencia.
 * Mejorar habilidades en el uso de las tecnologías de la información y la comunicación.
 
-**Contenidos dificiles**
+**Contenidos dificiles** :anger:
 Los contenidos a mi parecer han sido un poco dificiles fueron:
-* *Introducción a la librería Vue.js y Bootstrap
-* *Conectando a una BD MySQL con Laravel 
-* *CRUD con Laravel 
+* Introducción a la librería Vue.js y Bootstrap
+* Conectando a una BD MySQL con Laravel 
+* CRUD con Laravel 
+Estos contenidos no entendi muy bien pero con un poco de investigación pude aclarar un poco las dudas.
+
+## Bitacora de aprendizajes
+
+**Investigaciones**
+La investigaciones que hacia por asi decirlo eran pertinentes a 
+Laravel y su integracion a PHP, fue un reto pero haciendo consultas
+se pueden dar las soluciones.
+
+[![Jetstream](https://img.shields.io/badge/1-Jetstream%20Laravel-brightgreen)](https://www.youtube.com/watch?v=TnPGlmjx-_c)
+
 
 
