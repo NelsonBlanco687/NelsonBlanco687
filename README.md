@@ -85,6 +85,10 @@ Laravel y su integracion a PHP, fue un reto pero haciendo consultas
 se pueden dar las soluciones.
 
 [![Jetstream](https://img.shields.io/badge/1-Jetstream%20Laravel-brightgreen)](https://www.youtube.com/watch?v=TnPGlmjx-_c)
+[![Jetstream](https://img.shields.io/badge/2-Laravel%20y%20PHP-red)](https://laravel.com/)
+[![Jetstream](https://img.shields.io/badge/3-Vue.js-orange)](https://vuejs.org/)
+
+
 
 
 
