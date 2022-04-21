@@ -96,6 +96,7 @@ se pueden dar las soluciones.
 * [![Jetstream](https://img.shields.io/badge/2-LaravelLivewireAlumnos-brightgreen)](https://github.com/galle997/LaravelLivewireAlumnos.git)
 
 ## Conclusiones :fire:
+* En conclusión en esta materia dimos a conocer temas de gran utilidad para la programación los cuales pusimos en práctica para la realización de este trabajo, teniendo así una herramienta más para nuestro futuro atajos y lenguajes que nos ayudará a mejorar áreas que alguna vez se no dificultó dando a conocer nuestros objetivos y cumpliendo cada uno de ellos pasó a paso doy por concluido qué se abarcó y se puso en práctica todo requerido.
 
 
 
