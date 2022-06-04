@@ -53,7 +53,6 @@ controladores)
 
 [![Jornalizacion1.png](https://i.postimg.cc/J7xrpRG2/Jornalizacion1.png)](https://postimg.cc/3WyQR5jX)
 
-##ff
 [![Captura2.jpg](https://i.postimg.cc/4dBNY9GT/Captura2.jpg)](https://postimg.cc/MMf84XXs)
 
 
