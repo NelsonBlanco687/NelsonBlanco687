@@ -50,7 +50,11 @@ controladores)
 * 3.7 Aplicaciones Real-Time en Node.js con Socket.io
 
 ## Jornalizacion :raised_hands:
+**Jornalizacion computo 1 y 2**
 [![Jornalizacion1.png](https://i.postimg.cc/J7xrpRG2/Jornalizacion1.png)](https://postimg.cc/3WyQR5jX)
+
+**Jornalizacion computo 3**
+[![Captura.jpg](https://i.postimg.cc/RVyXxJwq/Captura.jpg)](https://postimg.cc/8jdhh5KV)
 
 ## Calendarizacion :ok_hand:
 [![Calendarizaci-n-I-2022-4-1-page-0001.jpg](https://i.postimg.cc/j5DKDTd8/Calendarizaci-n-I-2022-4-1-page-0001.jpg)](https://postimg.cc/tZG8cL6P)
@@ -87,14 +91,16 @@ se pueden dar las soluciones.
 [![Jetstream](https://img.shields.io/badge/1-Jetstream%20Laravel-brightgreen)](https://www.youtube.com/watch?v=TnPGlmjx-_c)
 [![Jetstream](https://img.shields.io/badge/2-Laravel%20y%20PHP-red)](https://laravel.com/)
 [![Jetstream](https://img.shields.io/badge/3-Vue.js-orange)](https://vuejs.org/)
+[![Jetstream](https://img.shields.io/badge/4---nodesjs-brightgreen)](https://openwebinars.net/blog/que-es-nodejs/)
 
 **Practicas desarrolladas** :school_satchel:
 * [![Jetstream](https://img.shields.io/badge/1-Practicas-lightgrey)](https://github.com/NelsonBlanco687/Practicas_computo_ll.git)
-
+* [![Jetstream](https://img.shields.io/badge/2-practicas-brightgreen)](https://github.com/NelsonBlanco687/Practicas-computo-3.git)
+* 
 **Laboratorios** :page_with_curl:
 * [![Jetstream](https://img.shields.io/badge/1-CrudProject-blue)](https://github.com/galle997/CrudProject.git)
 * [![Jetstream](https://img.shields.io/badge/2-LaravelLivewireAlumnos-brightgreen)](https://github.com/galle997/LaravelLivewireAlumnos.git)
-
+* [![Jetstream](https://img.shields.io/badge/3-Nodesjs%2CMongo-orange)](https://github.com/William-2003/CRUDlogin_MONGO)
 ## Conclusion :fire:
 * En conclusión en esta materia dimos a conocer temas de gran utilidad para la programación los cuales pusimos en práctica para la realización de este trabajo, teniendo así una herramienta más para nuestro futuro atajos y lenguajes que nos ayudará a mejorar áreas que alguna vez se no dificultó dando a conocer nuestros objetivos y cumpliendo cada uno de ellos pasó a paso doy por concluido qué se abarcó y se puso en práctica todo requerido.
 
