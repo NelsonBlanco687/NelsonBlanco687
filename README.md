@@ -54,7 +54,7 @@ controladores)
 [![Jornalizacion1.png](https://i.postimg.cc/J7xrpRG2/Jornalizacion1.png)](https://postimg.cc/3WyQR5jX)
 
 **Jornalizacion computo 3**
-[![Captura.jpg](https://i.postimg.cc/RVyXxJwq/Captura.jpg)](https://postimg.cc/8jdhh5KV)
+[![Captura.png](https://i.postimg.cc/RVyXxJwq/Captura.jpg)](https://postimg.cc/8jdhh5KV)
 
 ## Calendarizacion :ok_hand:
 [![Calendarizaci-n-I-2022-4-1-page-0001.jpg](https://i.postimg.cc/j5DKDTd8/Calendarizaci-n-I-2022-4-1-page-0001.jpg)](https://postimg.cc/tZG8cL6P)
