@@ -1,4 +1,4 @@
-## Introduccion  III 👋
+## Introduccion 👋
 
 En la presente materia, trataremos varios temas de interes, los cuales a largo plazo
 sera de mucha utilidad para nosotros los estudiantes como futuros ingenieros.
@@ -29,10 +29,4 @@ codigos. :heart:
 * Tener sentido de la pertenencia.
 * Mejorar habilidades en el uso de las tecnologías de la información y la comunicación.
 
-**Contenidos dificiles** :anger:
-Los contenidos a mi parecer han sido un poco dificiles fueron:
-* Introducción a la librería Vue.js y Bootstrap
-* Conectando a una BD MySQL con Laravel 
-* CRUD con Laravel 
-Estos contenidos no entendi muy bien pero con un poco de investigación pude aclarar un poco las dudas.
 
