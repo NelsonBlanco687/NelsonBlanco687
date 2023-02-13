@@ -5,14 +5,8 @@ sera de mucha utilidad para nosotros los estudiantes como futuros ingenieros.
 
 ## Descripción de la asignatura :+1:
 
-Los estudiantes comprenden y aplican los lenguajes y 
-tecnologías para el desarrollo de aplicaciones para 
-computadoras,  dispositivos  móviles;  sin  embargo,  aún  no 
-conocen  la  integración  de  los  elementos  de  desarrollo  de 
-sistemas para la Web que les permita crear soluciones 
-profesionales en entornos distribuidos. Se pretende que, en la 
-asignatura,  los  estudiantes  adquieran  las  competencias  para 
-desarrollar programas orientados a entornos Web.
+comprender y analizar proyectos de interés que me faciliten comprender las cosas, tener una mejor logica y de esta
+manera seguir siendo mejorando. 
 
 
 ## Presentacion :bowtie:
