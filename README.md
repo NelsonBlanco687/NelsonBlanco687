@@ -14,7 +14,7 @@ manera seguir siendo mejorando.
 codigos. :heart:
 * -Investigar temas en los cuales se me dificulte o hacer preguntas pertinentes. :heart:
 * -Mejorar resutados en areas dificiles. :heart:
-* -Aprender un nuevo lenguaje de programación llamado PHP :heart:
+* -Aprender un nuevo lenguaje de programación llamado kotlin :heart:
 
 **Competencias** :fire:
 * Mejorar la capacidad de trabajo en equipo.
